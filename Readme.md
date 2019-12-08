@@ -1,4 +1,4 @@
-#Spring Cloud Exercises
+# Spring Cloud Exercises
 
 A simple project to get familiar with spring cloud components like Zuul Gateway, Eureka and Ribbon Load Balancer.
 
